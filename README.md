@@ -1,7 +1,5 @@
 # Gamer Chat App Client
 
-# Badges
-
 [![GPLv3 License](https://img.shields.io/badge/java-13.0.2-blue.svg)](https://opensource.org/licenses/)
 
 A game chat app that designed to address finding players around the world and creating new friendships and providing chat For players. 
